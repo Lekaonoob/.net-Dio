@@ -1,0 +1,5 @@
+Estudar comandos do Git/GitHub.
+Estudar Typora.
+cd = Comando para entrar em uma pasta específica.
+C+L, limpa o terminal ( clean)
+git status ( auto explicativo)
